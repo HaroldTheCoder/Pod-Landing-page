@@ -173,6 +173,9 @@ img {
         display: initial;
         padding: 0;
     }
+    #main-container {
+        height: 100vh;
+    }
     h1 {
         line-height: 40px;
         font-size: 1.6em;
