@@ -206,6 +206,10 @@ img {
     .page-img, .page-img-tablet, .bg-pattern {
         display: none;
     }
+    .page-img-container {
+        width: 100%;
+        height: 100vh;
+    }
     .page-img-mobile {
         display: block;
     }
